@@ -1,0 +1,25 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 20px;
+}
+
+#stream-select {
+	display: none;
+}
+
+select {
+	width: 100%;
+	padding: 5px;
+	font-size: 16px;
+	margin-bottom: 2px;
+}
+
+video {
+  width: 100%;
+  height: auto;
+}
+
+#select-container {
+  margin-bottom: 20px;
+}
